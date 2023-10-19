@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Farhanah Husni</h1>
-<h3 align="center">A student in University of Technology Malaysia(UTM),Johor</h3>
+<h3 align="center">A student in University of Technology Malaysia (UTM), Johor</h3>
 
 - ⚡ Fun fact **I think i am happy go lucky person**
 
