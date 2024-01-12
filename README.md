@@ -45,4 +45,6 @@ Hello guys !! welcome to my profile . My name is Nur Farhanah Husni Binti Nor Fa
 - Tulisan Khat 2022 🥈
 - Kejohanan Bola Jaring Perempuan Under 18 2022 and Under 15 2019 (MSSD)
 - Participant on Trends in International Mathematics & Science Study (TIMSS) 2015
-  
+
+ <h2 align="left">💪 Self-Strenght :</h2> 
+ 
