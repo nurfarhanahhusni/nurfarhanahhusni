@@ -48,8 +48,8 @@ Hello! Nur Farhanah Husni Binti Nor Faizal is my name. I was called Farhanah by 
 
  <h2 align="left">💪 Self-Strenght :</h2>
 
-<h3 Self- decipline </h3>
-      
+<h3 align="left">Self- decipline</h3>
+    
 As a student, I've identified a few skills that have helped me achieve both academically and emotionally. My greatest strength is my discipline. I have a rigid routine that includes studying, regular exercise, and getting enough sleep. This practice has helped me succeed academically and maintain a healthy lifestyle. Resilience is one of my other strongest traits. Learning is a difficult journey, but my ability to get over challenges is what sets me apart. I view setbacks as chances for growth rather than obstacles. Thanks to this perspective, I've been able to conquer academic challenges with hope and perseverance. Curiosity is another thing that drives me. I'm constantly searching for fresh approaches to learning outside of the classroom.
   
  
