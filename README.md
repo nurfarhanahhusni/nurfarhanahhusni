@@ -14,42 +14,65 @@ Hello! Nur Farhanah Husni Binti Nor Faizal is my name. I was called Farhanah by 
 
 - ⚡ Fun fact **I think i am happy go lucky person**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me :</h3>
 <p align="left">
 <a href="https://instagram.com/haanex_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="haanex_" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/farhanah husni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="farhanah husni" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools :</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nurfarhanahhusni&show_icons=true&locale=en&layout=compact" alt="nurfarhanahhusni" /></p>
+<h2 align="left"> 🔥 Github Stats :</h2>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nurfarhanahhusni&show_icons=true&locale=en&layout=compact" alt="nurfarhanahhusni" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nurfarhanahhusni&show_icons=true&locale=en" alt="nurfarhanahhusni" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nurfarhanahhusni&" alt="nurfarhanahhusni" /></p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nurfarhanahhusni" alt="nurfarhanahhusni" /></a> </p>
+
+<h2 align="center"> 🏆 Github Trophy :</h2>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nurfarhanahhusni" alt="nurfarhanahhusni" /></a> </p>
+
 
 <h2 align="left">🧑‍🎓 My Journey :</h2>
 
-<h3 align="left">Education</h3>
+<h3 align="left"> 📚 Education</h3>
 
 - University Technology Malaysia, currently (2023 - 2027)
-- Johor Matriculation College (2022 - 2023)
-- Kompleks Sultan Abu Bakar Secondary School  (2017 - 2022)
-      
-<h2 align="left">🏆 My Achievements :</h2>
-      
+- Johore Matriculation College (2022 - 2023)
+- SMK Kompleks Sultan Abu Bakar (2017 - 2021)
+- SK Morni Pok (2011 - 2016)
+  
+<h3 align="left">👩‍🏭 Work Experience </h3>
+- Kindergarten Teacher's Assistant at Tadika Kemas 2021.
+
+
+<h2 align="left">🏆 My Achievements/Extracurricular :</h2>
+
+<h3 align="left"> 🏃‍♀️ Extracurricular Activities </h3>
+
+1. Johore Matriculation College   
 - Matriculation STEM Comic Challenge 2022 (MASTECC 2.0) 🥇
 - Microscope Challenge 2022 🥈
-- Tulisan Khat 2022 🥈
-- Kejohanan Bola Jaring Perempuan Under 18 2022 and Under 15 2019 (MSSD)
+- Calligraphy Compettiton 2022 🥈
+
+2. SMK Kompleks Sultan Abu Bakar
+- Champion Netball Tournement U-18 (MSSD) 2021
+- Champion Netball Tournement U-15  (MSSD) 2019
 - Participant on Trends in International Mathematics & Science Study (TIMSS) 2015
 
- <h2 align="left">💪 Self-Strenght :</h2>
+3. SK Morni Pok
+- Champion Hockey Cup Tournement (MSSJ) 2015_ 🥈
+- Champion Hockey Cup Tournement (MSSD) 2015_🥈
+- Champion Handball Tournement (MSSD) 2014 🥉
 
-<h3 align="left">Self- decipline</h3>
-    
-As a student, I've identified a few skills that have helped me achieve both academically and emotionally. My greatest strength is my discipline. I have a rigid routine that includes studying, regular exercise, and getting enough sleep. This practice has helped me succeed academically and maintain a healthy lifestyle. Resilience is one of my other strongest traits. Learning is a difficult journey, but my ability to get over challenges is what sets me apart. I view setbacks as chances for growth rather than obstacles. Thanks to this perspective, I've been able to conquer academic challenges with hope and perseverance. Curiosity is another thing that drives me. I'm constantly searching for fresh approaches to learning outside of the classroom.
+ <h2 align="left"> 🖥️ Technical Skills :</h2>
+ 
+ - Basic Web Development : CSS, JavaScript, HTML
+ - Programming Language  : Java, C++
+ 
+<h2 align="left">💪 Soft-Skills :</h2>
+
+1. Self- decipline
+   - As a student, I've identified a few skills that have helped me achieve both academically and emotionally. My greatest strength is my discipline. I have a rigid routine that includes studying, regular exercise, and getting enough sleep. This practice has helped me succeed academically and maintain a healthy lifestyle. Resilience is one of my other strongest traits. Learning is a difficult journey, but my ability to get over challenges is what sets me apart. I view setbacks as chances for growth rather  than obstacles. Thanks to this perspective, I've been able to conquer academic challenges with hope and perseverance. Curiosity is another thing that drives me. I'm     constantly searching for fresh approaches to learning outside of the classroom.
   
  
