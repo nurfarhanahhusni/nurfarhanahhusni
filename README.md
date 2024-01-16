@@ -29,7 +29,7 @@ Hello! Nur Farhanah Husni Binti Nor Faizal is my name. I was called Farhanah by 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nurfarhanahhusni&show_icons=true&locale=en" alt="nurfarhanahhusni" /></p>
 
 
-<h2 align="center"> 🏆 Github Trophy :</h2>
+<h2 align="center"> 🏆 Github Trophy </h2>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nurfarhanahhusni" alt="nurfarhanahhusni" /></a> </p>
 
 
@@ -43,7 +43,8 @@ Hello! Nur Farhanah Husni Binti Nor Faizal is my name. I was called Farhanah by 
 - SK Morni Pok (2011 - 2016)
   
 <h3 align="left">👩‍🏭 Work Experience </h3>
-- Kindergarten Teacher's Assistant at Tadika Kemas 2021.
+
+- Kindergarten Teacher's Assistant at Tadika Kemas (2021)
 
 
 <h2 align="left">🏆 My Achievements/Extracurricular :</h2>
@@ -61,8 +62,8 @@ Hello! Nur Farhanah Husni Binti Nor Faizal is my name. I was called Farhanah by 
 - Participant on Trends in International Mathematics & Science Study (TIMSS) 2015
 
 3. SK Morni Pok
-- Champion Hockey Cup Tournement (MSSJ) 2015_ 🥈
-- Champion Hockey Cup Tournement (MSSD) 2015_🥈
+- Champion Hockey Cup Tournement (MSSJ) 2015 🥈
+- Champion Hockey Cup Tournement (MSSD) 2015 🥈
 - Champion Handball Tournement (MSSD) 2014 🥉
 
  <h2 align="left"> 🖥️ Technical Skills :</h2>
