@@ -73,14 +73,24 @@ Hello! Nur Farhanah Husni Binti Nor Faizal is my name. I was called Farhanah by 
  
 <h2 align="left">💪 Soft-Skills :</h2>
 
-1. **Communication Skills:**
+1. **Communication Skills :**
    - I understand the importance of effective communication in all aspects of my life.
    - I actively listen, articulate my ideas clearly, and adjust my communication style for different audiences.
    - My communication skills help build rapport, encourage teamwork, and make it easier to persuade others.
 
-2. **Emotional Intelligence:**
+2. **Emotional Intelligence :**
    - I recognize, understand, and manage my emotions while empathizing with others.
    - My high emotional intelligence enhances my ability to work well in teams and improve interpersonal interactions.
    - I am resilient and skilled in navigating social situations, contributing to a positive and harmonious work environment.
   
- 
+3. **Problem-solving :**
+   - I excel in analyzing situations, identifying challenges, and crafting practical solutions.
+   - My approach involves critical thinking, creativity, and a proactive attitude toward addressing issues.
+     
+4. **Time Management :**
+   - I am adept at organizing and prioritizing tasks, consistently meeting deadlines, and efficiently managing my time.
+   - My strong time management skills contribute to my productivity and reliability in various endeavors.
+
+5. **Leadership :**
+   - Even without a formal leadership role, I possess strong leadership skills.
+   - I naturally motivate and guide others, take initiative, and make decisions, fostering a positive working environment and inspiring confidence in those around me.
