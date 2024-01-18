@@ -1,8 +1,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nurfarhanahhusni&label=Profile%20views&color=0e75b6&style=flat" alt="nurfarhanahhusni" /> </p>
 
-<h1 align="center">Hye 👋, I'm Farhanah Husni</h1>
 
-<h3 align="center">A student in University of Technology Malaysia (UTM),Johor</h3>
+<h3 align="center">A student in University of Technology Malaysia (UTM), Johor</h3>
+
+![Copy of Your paragraph text](https://github.com/nurfarhanahhusni/nurfarhanahhusni/assets/148424765/f84ff755-8a6c-47f6-afae-3dc0a0173469)
 
 Hello! Nur Farhanah Husni Binti Nor Faizal is my name. I was called Farhanah by all of my pals. My hometown is Johor. I'm pursuing a Bachelor of Computer Science (Graphic & Multimedia Software) with Honors degree at UTM, Skudai, Johor right now. I'm in my first year and will most likely graduate in 2027. Prior to this, I was pursuing Computer Science courses at Johor Matriculation College to continue my education after SPM. I've performed tasks with Java Script before. I adore coding, which is why I chose to pursue computer science as my field of study. And right now, I'm studying the C++ programming language. Furthermore, I possess proficiency in utilizing Microsoft Word, Excel, and PowerPoint in addition to Textpad 8. In addition, I am proficient in Canva, Capcut, Photoshop, and VN picture and video editing. Drawing is one of my hobbies. I've loved all things artistic since kindergarten. I've drawn a lot, but my greatest accomplishment lately is taking first place in the Matriculation STEM Comic Challenge 2022 (MASTECC 2.0) at Matriculation Kedah. Conversely, my involvement in the college students council and my crew membership in various programs at my university and college gave me good social skills. This demonstrates my ability to collaborate well with others and work in teams. Not to mention, I'm eager for the obstacles that the university era will present as well as the new lessons that will emerge over time.
       
