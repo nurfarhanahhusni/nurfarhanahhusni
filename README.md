@@ -95,3 +95,8 @@ Hello! Nur Farhanah Husni Binti Nor Faizal is my name. I was called Farhanah by 
 5. **Leadership :**
    - Even without a formal leadership role, I possess strong leadership skills.
    - I naturally motivate and guide others, take initiative, and make decisions, fostering a positive working environment and inspiring confidence in those around me.
+
+<h2 align="left">🖌️ Project :</h2>     
+
+  **:atom:  MASTECC (2.0) :**
+  - [Comic STEM](https://github.com/nurfarhanahhusni/nurfarhanahhusni/assets/148424765/78e02ea3-4f42-416b-87c2-560dc52beefa)
