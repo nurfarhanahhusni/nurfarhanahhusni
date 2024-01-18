@@ -98,5 +98,5 @@ Hello! Nur Farhanah Husni Binti Nor Faizal is my name. I was called Farhanah by 
 
 <h2 align="left">🖌️ Project :</h2>     
 
-  **:atom:  MASTECC (2.0) :**
+  **:atom:  MASTECC (2.0)**
   - [Comic STEM](https://github.com/nurfarhanahhusni/nurfarhanahhusni/assets/148424765/78e02ea3-4f42-416b-87c2-560dc52beefa)
