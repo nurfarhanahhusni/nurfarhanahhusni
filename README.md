@@ -55,7 +55,7 @@ Hello! Nur Farhanah Husni Binti Nor Faizal is my name. I was called Farhanah by 
 1. Johore Matriculation College   
 - Matriculation STEM Comic Challenge 2022 (MASTECC 2.0) 🥇
 - Microscope Challenge 2022 🥈
-- Calligraphy Compettiton 2022 🥈
+- Calligraphy Competition 2022 🥈
 
 2. SMK Kompleks Sultan Abu Bakar
 - Champion Netball Tournement U-18 (MSSD) 2021
